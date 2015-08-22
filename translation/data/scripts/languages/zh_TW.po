@@ -16,37 +16,37 @@ msgstr ""
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.1"
 msgid "KILL TREE!"
-msgstr ""
+msgstr "殺了這棵樹!"
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.2
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.2"
 msgid "SMASH MEAN TREE!"
-msgstr ""
+msgstr "砸掉這棵爛樹!"
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.3"
 msgid "I PUNCH TREE!"
-msgstr ""
+msgstr "我打樹!"
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE"
 msgid "The throne won't allow that. I've tried."
-msgstr ""
+msgstr "強權不會允許我那樣做的，我試過了。"
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE"
 msgid "Thank you. I have been listening to that song for an eternity."
-msgstr ""
+msgstr "太感謝你了。我好像聽那首歌有永遠的久了。"
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE"
 msgid "Ah, I am a fool. I had dared to hope."
-msgstr ""
+msgstr "啊，我是個傻子。我曾經敢夢。"
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE"
 msgid "I guess I deserve that."
-msgstr ""
+msgstr "我覺得那是我應得的。"
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE"
