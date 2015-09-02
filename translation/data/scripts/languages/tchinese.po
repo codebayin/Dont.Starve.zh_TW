@@ -8466,107 +8466,107 @@ msgstr "刪除"
 #. STRINGS.UI.WORLDGEN.VERBS.1
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.1"
 msgid "Wrangling"
-msgstr ""
+msgstr "正在控制"
 
 #. STRINGS.UI.WORLDGEN.VERBS.2
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.2"
 msgid "Generating"
-msgstr ""
+msgstr "正在生成"
 
 #. STRINGS.UI.WORLDGEN.VERBS.3
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.3"
 msgid "Herding"
-msgstr ""
+msgstr "正在放牧"
 
 #. STRINGS.UI.WORLDGEN.VERBS.4
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.4"
 msgid "Embiggening"
-msgstr ""
+msgstr "正在加大"
 
 #. STRINGS.UI.WORLDGEN.VERBS.5
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.5"
 msgid "Iterating upon"
-msgstr ""
+msgstr "正在疊加"
 
 #. STRINGS.UI.WORLDGEN.VERBS.6
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.6"
 msgid "Insinuating"
-msgstr ""
+msgstr "正在潛入"
 
 #. STRINGS.UI.WORLDGEN.VERBS.7
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.7"
 msgid "Reticulating"
-msgstr ""
+msgstr "正在交織"
 
 #. STRINGS.UI.WORLDGEN.VERBS.8
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.8"
 msgid "Inserting"
-msgstr ""
+msgstr "正在添加"
 
 #. STRINGS.UI.WORLDGEN.VERBS.9
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.9"
 msgid "Framing"
-msgstr ""
+msgstr "正在架構"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.1
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.1"
 msgid "trees"
-msgstr ""
+msgstr "樹木"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.2
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.2"
 msgid "pathos"
-msgstr ""
+msgstr "淒涼"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.3
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.3"
 msgid "pines"
-msgstr ""
+msgstr "松樹"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.4
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.4"
 msgid "spiders"
-msgstr ""
+msgstr "蜘蛛"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.5
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.5"
 msgid "monsters"
-msgstr ""
+msgstr "怪獸"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.6
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.6"
 msgid "a keen sense of despair"
-msgstr ""
+msgstr "強烈的絕望感"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.7
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.7"
 msgid "Wilson's beard"
-msgstr ""
+msgstr "威爾森的鬚"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.8
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.8"
 msgid "buckets and buckets of loot"
-msgstr ""
+msgstr "整桶整桶的戰利品"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.9
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.9"
 msgid "game theory"
-msgstr ""
+msgstr "賽局理論"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.10
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.10"
 msgid "food"
-msgstr ""
+msgstr "食物"
 
 #. STRINGS.UI.WORLDGEN.TITLE
 msgctxt "STRINGS.UI.WORLDGEN.TITLE"
 msgid "GENERATING WORLD"
-msgstr ""
+msgstr "正在生成世界"
 
 #. STRINGS.UI.WORLDGEN.CAVETITLE
 msgctxt "STRINGS.UI.WORLDGEN.CAVETITLE"
 msgid "CARVING OUT CAVE"
-msgstr ""
+msgstr "正在開鑿洞穴"
 
 #. STRINGS.UI.NOTIFICATION.CONNECTING
 msgctxt "STRINGS.UI.NOTIFICATION.CONNECTING"
