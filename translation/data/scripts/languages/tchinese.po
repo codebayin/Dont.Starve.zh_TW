@@ -8616,592 +8616,592 @@ msgstr "離開遊戲了。"
 #. STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE
 msgctxt "STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE"
 msgid "Remote:"
-msgstr ""
+msgstr "遠端："
 
 #. STRINGS.UI.CONTROLSSCREEN.CLOSE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 #. STRINGS.UI.CONTROLSSCREEN.INVALID_CONTROL
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INVALID_CONTROL"
 msgid "N/A"
-msgstr ""
+msgstr "無"
 
 #. STRINGS.UI.CONTROLSSCREEN.DEFAULT_CONTROL_TEXT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.DEFAULT_CONTROL_TEXT"
 msgid "Default: %s"
-msgstr ""
+msgstr "預設：%s"
 
 #. STRINGS.UI.CONTROLSSCREEN.YES
 msgctxt "STRINGS.UI.CONTROLSSCREEN.YES"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.R3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.R3"
 msgid "Inventory Selection"
-msgstr ""
+msgstr "物品欄選擇"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.SQUARE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.SQUARE"
 msgid "Attack"
-msgstr ""
+msgstr "攻擊"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.CROSS
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.CROSS"
 msgid "Do Action / Accept"
-msgstr ""
+msgstr "主動作/接受"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.L3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.L3"
 msgid "Walk"
-msgstr ""
+msgstr "行走"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_LEFT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_LEFT"
 msgid "Use on World"
-msgstr ""
+msgstr "對場景使用"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.CIRCLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.CIRCLE"
 msgid "Alt Action / Cancel"
-msgstr ""
+msgstr "副動作/取消"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_RIGHT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_RIGHT"
 msgid "Use on Self"
-msgstr ""
+msgstr "對自己使用"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.OPTIONS
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.OPTIONS"
 msgid "Pause"
-msgstr ""
+msgstr "暫停"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.L2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.L2"
 msgid "Open Crafting"
-msgstr ""
+msgstr "打開物品製作"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_UP
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_UP"
 msgid "Inspect Item"
-msgstr ""
+msgstr "調查物品"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_BOTTOM
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.DPAD_BOTTOM"
 msgid "Drop Item"
-msgstr ""
+msgstr "丟棄物品"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.L1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.L1"
 msgid "Rotate Camera"
-msgstr ""
+msgstr "旋轉鏡頭"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.TRIANGLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.TRIANGLE"
 msgid "Inspect"
-msgstr ""
+msgstr "調查"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.R1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.R1"
 msgid "Rotate Camera"
-msgstr ""
+msgstr "旋轉鏡頭"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.R2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.R2"
 msgid "Open Inventory"
-msgstr ""
+msgstr "打開物品欄"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.TOUCHPAD
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.TOUCHPAD"
 msgid "Map"
-msgstr ""
+msgstr "地圖"
 
 #. STRINGS.UI.CONTROLSSCREEN.RESET
 msgctxt "STRINGS.UI.CONTROLSSCREEN.RESET"
 msgid "Reset Binds"
-msgstr ""
+msgstr "重置指定"
 
 #. STRINGS.UI.CONTROLSSCREEN.BACK
 msgctxt "STRINGS.UI.CONTROLSSCREEN.BACK"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.6
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.6"
 msgid "Touch Input"
-msgstr ""
+msgstr "觸控輸入"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.1"
 msgid "Keyboard/Mouse"
-msgstr ""
+msgstr "鍵盤/滑鼠"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.3"
 msgid "PS4 Controller"
-msgstr ""
+msgstr "PS4手把"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.7
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.7"
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.8
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.8"
 msgid "PS4 Controller"
-msgstr ""
+msgstr "PS4手把"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.4
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.4"
 msgid "Vita Remote Play"
-msgstr ""
+msgstr "Vita遙控"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.9
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.9"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2"
 msgid "Xbox Controller"
-msgstr ""
+msgstr "Xbox手把"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.5
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.5"
 msgid "Generic Controller"
-msgstr ""
+msgstr "一般手把"
 
 #. STRINGS.UI.CONTROLSSCREEN.APPLY
 msgctxt "STRINGS.UI.CONTROLSSCREEN.APPLY"
 msgid "Apply"
-msgstr ""
+msgstr "套用"
 
 #. STRINGS.UI.CONTROLSSCREEN.APPLYTITLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.APPLYTITLE"
 msgid "Accept Changes"
-msgstr ""
+msgstr "接受變更"
 
 #. STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_BODY
 msgctxt "STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_BODY"
 msgid "Do you want abandon your changes?"
-msgstr ""
+msgstr "你是否要放棄變更？"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROL_SELECT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROL_SELECT"
 msgid " -- Select new input -- "
-msgstr ""
+msgstr " - 按任意鍵指定 - "
 
 #. STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_TITLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_TITLE"
 msgid "Lose Changes?"
-msgstr ""
+msgstr "放棄變更？"
 
 #. STRINGS.UI.CONTROLSSCREEN.RESETBODY
 msgctxt "STRINGS.UI.CONTROLSSCREEN.RESETBODY"
 msgid "Do you want to reset all binds to their defaults?"
-msgstr ""
+msgstr "你是否要將所有按鍵指定重置為預設值？"
 
 #. STRINGS.UI.CONTROLSSCREEN.RESETTITLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.RESETTITLE"
 msgid "Reset Binds"
-msgstr ""
+msgstr "重置指定"
 
 #. STRINGS.UI.CONTROLSSCREEN.APPLYBODY
 msgctxt "STRINGS.UI.CONTROLSSCREEN.APPLYBODY"
 msgid "Do you wish to accept these changes?"
-msgstr ""
+msgstr "你是否要接受這些變更？"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.1"
 msgid "Primary"
-msgstr ""
+msgstr "主要"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.2"
 msgid "Secondary"
-msgstr ""
+msgstr "次要"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.3"
 msgid "Do Attack"
-msgstr ""
+msgstr "攻擊"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.4
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.4"
 msgid "Examine"
-msgstr ""
+msgstr "調查"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.5
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.5"
 msgid "Do Action"
-msgstr ""
+msgstr "動作"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.6
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.6"
 msgid "Move Up"
-msgstr ""
+msgstr "上移"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.7
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.7"
 msgid "Move Down"
-msgstr ""
+msgstr "下移"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.8
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.8"
 msgid "Move Left"
-msgstr ""
+msgstr "左移"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.9
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.9"
 msgid "Move Right"
-msgstr ""
+msgstr "右移"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.10
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.10"
 msgid "Zoom In"
-msgstr ""
+msgstr "放大"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.11
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.11"
 msgid "Zoom Out"
-msgstr ""
+msgstr "縮小"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.12
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.12"
 msgid "Rotate Left"
-msgstr ""
+msgstr "向左旋轉"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.13
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.13"
 msgid "Rotate Right"
-msgstr ""
+msgstr "向右旋轉"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.14
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.14"
 msgid "Pause"
-msgstr ""
+msgstr "暫停"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.15
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.15"
 msgid "Map"
-msgstr ""
+msgstr "地圖"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.16
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.16"
 msgid "Inv 1"
-msgstr ""
+msgstr "物品欄1"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.17
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.17"
 msgid "Inv 2"
-msgstr ""
+msgstr "物品欄2"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.18
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.18"
 msgid "Inv 3"
-msgstr ""
+msgstr "物品欄3"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.19
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.19"
 msgid "Inv 4"
-msgstr ""
+msgstr "物品欄4"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.20
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.20"
 msgid "Inv 5"
-msgstr ""
+msgstr "物品欄5"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.21
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.21"
 msgid "Inv 6"
-msgstr ""
+msgstr "物品欄6"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.22
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.22"
 msgid "Inv 7"
-msgstr ""
+msgstr "物品欄7"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.23
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.23"
 msgid "Inv 8"
-msgstr ""
+msgstr "物品欄8"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.24
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.24"
 msgid "Inv 9"
-msgstr ""
+msgstr "物品欄9"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.25
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.25"
 msgid "Inv 10"
-msgstr ""
+msgstr "物品欄10"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.26
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.26"
 msgid "Menu Up"
-msgstr ""
+msgstr "選單．向上"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.27
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.27"
 msgid "Menu Down"
-msgstr ""
+msgstr "選單．向下"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.28
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.28"
 msgid "Menu Left"
-msgstr ""
+msgstr "選單．向左"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.29
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.29"
 msgid "Menu Right"
-msgstr ""
+msgstr "選單．向右"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.30
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.30"
 msgid "Menu Accept"
-msgstr ""
+msgstr "選單．接受"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.31
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.31"
 msgid "Menu Cancel"
-msgstr ""
+msgstr "選單．取消"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.32
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.32"
 msgid "Menu Scroll Up"
-msgstr ""
+msgstr "選單．向上滾動"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.33
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.33"
 msgid "Menu Scroll Down"
-msgstr ""
+msgstr "選單．向下滾動"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.34
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.34"
 msgid "Menu Prev Value"
-msgstr ""
+msgstr "選單．上一個值"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.35
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.35"
 msgid "Menu Next Value"
-msgstr ""
+msgstr "選單．下一個值"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.36
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.36"
 msgid "Take Half"
-msgstr ""
+msgstr "拿取一半"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.37
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.37"
 msgid "Change Box"
-msgstr ""
+msgstr "交換箱子"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.38
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.38"
 msgid "Change Box (Half)"
-msgstr ""
+msgstr "交換箱子（一半）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.39
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.39"
 msgid "Force Inspect (mod)"
-msgstr ""
+msgstr "強制調查（模組）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.40
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.40"
 msgid "Force Attack (mod)"
-msgstr ""
+msgstr "強制攻擊（模組）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.41
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.41"
 msgid "Force Container (mod)"
-msgstr ""
+msgstr "強制裝箱（模組）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.42
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.42"
 msgid "Force Stack (mod)"
-msgstr ""
+msgstr "強制堆疊（模組）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.43
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.43"
 msgid "Debug Console"
-msgstr ""
+msgstr "除錯控制台"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.44
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.44"
 msgid "Debug Log"
-msgstr ""
+msgstr "除錯日誌"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.45
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.45"
 msgid "Debug Render"
-msgstr ""
+msgstr "除錯訊息"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.46
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.46"
 msgid "Open Inventory"
-msgstr ""
+msgstr "打開物品欄"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.47
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.47"
 msgid "Open Crafting"
-msgstr ""
+msgstr "打開物品製作"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.48
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.48"
 msgid "Inv Left"
-msgstr ""
+msgstr "物品欄．向左"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.49
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.49"
 msgid "Inv Right"
-msgstr ""
+msgstr "物品欄．向右"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.50
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.50"
 msgid "Inv Up"
-msgstr ""
+msgstr "物品欄．向上"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.51
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.51"
 msgid "Inv Down"
-msgstr ""
+msgstr "物品欄．向下"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.52
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.52"
 msgid "Inv Examine"
-msgstr ""
+msgstr "物品欄．調查"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.53
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.53"
 msgid "Inv Use Self"
-msgstr ""
+msgstr "物品欄．對自己使用"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.54
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.54"
 msgid "Inv Use Scene"
-msgstr ""
+msgstr "物品欄．對場景使用"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.55
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.55"
 msgid "Inv Drop"
-msgstr ""
+msgstr "物品欄．丟棄"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.56
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.56"
 msgid "Inv Adjust Stack"
-msgstr ""
+msgstr "物品欄．調整堆疊"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.57
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.57"
 msgid "Attack"
-msgstr ""
+msgstr "攻擊"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.58
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.58"
 msgid "Action"
-msgstr ""
+msgstr "主動作"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.59
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.59"
 msgid "Alt Action"
-msgstr ""
+msgstr "副動作"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.60
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.60"
 msgid "Inv Use On Item"
-msgstr ""
+msgstr "物品欄．對物品使用"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.61
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.61"
 msgid "Map Zoom In"
-msgstr ""
+msgstr "地圖放大"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.62
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.62"
 msgid "Map Zoom Out"
-msgstr ""
+msgstr "地圖縮小"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.63
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.63"
 msgid "Debug Menu"
-msgstr ""
+msgstr "除錯選單"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.64
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.64"
 msgid "Toggle Say"
-msgstr ""
+msgstr "公開聊天"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.65
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.65"
 msgid "Toggle Whisper"
-msgstr ""
+msgstr "區域聊天"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.66
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.66"
 msgid "Slash Command"
-msgstr ""
+msgstr "斜線命令"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.67
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.67"
 msgid "Scoreboard"
-msgstr ""
+msgstr "記分板"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.68
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.68"
 msgid "Scoreboard"
-msgstr ""
+msgstr "記分板"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.69
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.69"
 msgid "Menu Misc 1"
-msgstr ""
+msgstr "選單雜項1"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.70
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.70"
 msgid "Menu Misc 2"
-msgstr ""
+msgstr "選單雜項2"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.71
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.71"
 msgid "Menu Misc 3"
-msgstr ""
+msgstr "選單雜項3"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.72
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.72"
 msgid "Menu Misc 4"
-msgstr ""
+msgstr "選單雜項4"
 
 #. STRINGS.UI.CONTROLSSCREEN.CHANGEBIND
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CHANGEBIND"
 msgid "Change Bind"
-msgstr ""
+msgstr "變更指定"
 
 #. STRINGS.UI.CONTROLSSCREEN.NO
 msgctxt "STRINGS.UI.CONTROLSSCREEN.NO"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #. STRINGS.UI.CONTROLSSCREEN.DEVICE_TITLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.DEVICE_TITLE"
 msgid "Controls"
-msgstr ""
+msgstr "控制"
 
 #. STRINGS.UI.CONTROLSSCREEN.CANCEL
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.6.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.6.1"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.6.2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.6.2"
 msgid " - No Bind - "
-msgstr ""
+msgstr " - 尚未指定 - "
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.120
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.120"
