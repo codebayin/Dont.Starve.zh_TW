@@ -9206,772 +9206,772 @@ msgstr " - 尚未指定 - "
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.120
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.120"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.121
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.121"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.122
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.122"
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1004
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1004"
 msgid "Mouse Scroll Down"
-msgstr ""
+msgstr "滑鼠滾輪向下"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1002
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1002"
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "滑鼠中鍵"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1003
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1003"
 msgid "Mouse Scroll Up"
-msgstr ""
+msgstr "滑鼠滾輪向上"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.127
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.127"
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.32
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.32"
 msgid "Space"
-msgstr ""
+msgstr "空白鍵"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.261
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.261"
 msgid "Num 5"
-msgstr ""
+msgstr "數字鍵5"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.265
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.265"
 msgid "Num 9"
-msgstr ""
+msgstr "數字鍵9"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.269
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.269"
 msgid "Num -"
-msgstr ""
+msgstr "數字鍵-"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.273
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.273"
 msgid "Up"
-msgstr ""
+msgstr "↑"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.8
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.8"
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.281
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.281"
 msgid "Page Down"
-msgstr ""
+msgstr "Page Down"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.285
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.285"
 msgid "F4"
-msgstr ""
+msgstr "F4"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.289
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.289"
 msgid "F8"
-msgstr ""
+msgstr "F8"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.293
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.293"
 msgid "F12"
-msgstr ""
+msgstr "F12"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.257
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.257"
 msgid "Num 1"
-msgstr ""
+msgstr "數字鍵1"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.301
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.301"
 msgid "Caps Lock"
-msgstr ""
+msgstr "Caps Lock"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.305
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.305"
 msgid "Right Control"
-msgstr ""
+msgstr "右Ctrl"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.9
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.9"
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.39
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.39"
 msgid "'"
-msgstr ""
+msgstr "'"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1000
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1000"
 msgid "Left Mouse Button"
-msgstr ""
+msgstr "滑鼠左鍵"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.321
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.321"
 msgid "Euro"
-msgstr ""
+msgstr "Euro"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.402
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.402"
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.401
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.401"
 msgid "Control"
-msgstr ""
+msgstr "Ctrl"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.400
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.400"
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.322
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.322"
 msgid "Undo"
-msgstr ""
+msgstr "Undo"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.320
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.320"
 msgid "Power"
-msgstr ""
+msgstr "Power"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.282
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.282"
 msgid "F1"
-msgstr ""
+msgstr "F1"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.316
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.316"
 msgid "Print Screen"
-msgstr ""
+msgstr "Print Screen"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.44
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.44"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.284
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.284"
 msgid "F3"
-msgstr ""
+msgstr "F3"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.45
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.45"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.314
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.314"
 msgid "Compose"
-msgstr ""
+msgstr "Compose"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.46
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.46"
 msgid "."
-msgstr ""
+msgstr "."
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.313
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.313"
 msgid "Mode"
-msgstr ""
+msgstr "Mode"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.47
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.47"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.312
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.312"
 msgid "Right Windows"
-msgstr ""
+msgstr "右視窗鍵"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.48
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.48"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.262
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.262"
 msgid "Num 6"
-msgstr ""
+msgstr "數字鍵6"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.49
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.49"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.270
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.270"
 msgid "Num +"
-msgstr ""
+msgstr "數字鍵+"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.50
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.50"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.12
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.12"
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.51
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.51"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.286
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.286"
 msgid "F5"
-msgstr ""
+msgstr "F5"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.52
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.52"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.294
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.294"
 msgid "F13"
-msgstr ""
+msgstr "F13"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.53
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.53"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.302
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.302"
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.54
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.54"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.13
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.13"
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.55
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.55"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.311
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.311"
 msgid "Left Windows"
-msgstr ""
+msgstr "左視窗鍵"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.56
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.56"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.310
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.310"
 msgid "Left Meta"
-msgstr ""
+msgstr "左Meta"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.57
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.57"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.309
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.309"
 msgid "Right Meta"
-msgstr ""
+msgstr "右Meta"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.308
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.308"
 msgid "Left Alt"
-msgstr ""
+msgstr "左Alt"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.288
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.288"
 msgid "F7"
-msgstr ""
+msgstr "F7"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.59
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.59"
 msgid "Semicolon"
-msgstr ""
+msgstr ";"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.306
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.306"
 msgid "Left Control"
-msgstr ""
+msgstr "左Ctrl"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.60
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.60"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.304
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.304"
 msgid "Left Shift"
-msgstr ""
+msgstr "左Shift"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.61
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.61"
 msgid "Equals"
-msgstr ""
+msgstr "="
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.0
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.0"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.62
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.62"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.290
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.290"
 msgid "F9"
-msgstr ""
+msgstr "F9"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.300
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.300"
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.296
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.296"
 msgid "F15"
-msgstr ""
+msgstr "F15"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.259
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.259"
 msgid "Num 3"
-msgstr ""
+msgstr "數字鍵3"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.263
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.263"
 msgid "Num 7"
-msgstr ""
+msgstr "數字鍵7"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.267
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.267"
 msgid "Num /"
-msgstr ""
+msgstr "數字鍵/"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.271
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.271"
 msgid "Num Enter"
-msgstr ""
+msgstr "數字鍵Enter"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.275
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.275"
 msgid "Right"
-msgstr ""
+msgstr "→"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.279
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.279"
 msgid "End"
-msgstr ""
+msgstr "End"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.283
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.283"
 msgid "F2"
-msgstr ""
+msgstr "F2"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.287
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.287"
 msgid "F6"
-msgstr ""
+msgstr "F6"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.291
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.291"
 msgid "F10"
-msgstr ""
+msgstr "F10"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.295
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.295"
 msgid "F14"
-msgstr ""
+msgstr "F14"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.292
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.292"
 msgid "F11"
-msgstr ""
+msgstr "F11"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.303
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.303"
 msgid "Right Shift"
-msgstr ""
+msgstr "右Shift"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.307
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.307"
 msgid "Right Alt"
-msgstr ""
+msgstr "右Alt"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.19
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.19"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.315
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.315"
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.319
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.319"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.280
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.280"
 msgid "Page Up"
-msgstr ""
+msgstr "Page Up"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.278
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.278"
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.277
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.277"
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.276
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.276"
 msgid "Left"
-msgstr ""
+msgstr "←"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.274
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.274"
 msgid "Down"
-msgstr ""
+msgstr "↓"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.268
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.268"
 msgid "Num *"
-msgstr ""
+msgstr "數字鍵*"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.266
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.266"
 msgid "Num ."
-msgstr ""
+msgstr "數字鍵."
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.264
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.264"
 msgid "Num 8"
-msgstr ""
+msgstr "數字鍵8"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.260
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.260"
 msgid "Num 4"
-msgstr ""
+msgstr "數字鍵4"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.258
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.258"
 msgid "Num 2"
-msgstr ""
+msgstr "數字鍵2"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.91
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.91"
 msgid "Left Bracket"
-msgstr ""
+msgstr "["
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.92
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.92"
 msgid "Backslash"
-msgstr ""
+msgstr "\\"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.93
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.93"
 msgid "Right Bracket"
-msgstr ""
+msgstr "]"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1001
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1001"
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "滑鼠右鍵"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.256
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.256"
 msgid "Num 0"
-msgstr ""
+msgstr "數字鍵0"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.96
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.96"
 msgid "`"
-msgstr ""
+msgstr "`"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.97
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.97"
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.98
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.98"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.99
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.99"
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.100
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.100"
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.101
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.101"
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.102
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.102"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.103
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.103"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.104
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.104"
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.105
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.105"
 msgid "I"
-msgstr ""
+msgstr "I"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.106
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.106"
 msgid "J"
-msgstr ""
+msgstr "J"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.107
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.107"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.108
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.108"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.109
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.109"
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.27
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.27"
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.111
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.111"
 msgid "O"
-msgstr ""
+msgstr "O"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.112
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.112"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.113
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.113"
 msgid "Q"
-msgstr ""
+msgstr "Q"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.114
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.114"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.115
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.115"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.116
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.116"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.117
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.117"
 msgid "U"
-msgstr ""
+msgstr "U"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.118
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.118"
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.119
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.119"
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.110
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.110"
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.1"
 msgid "(Button %d)"
-msgstr ""
+msgstr "(Button %d)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.2"
 msgid "(DPad %d Up)"
-msgstr ""
+msgstr "(DPad %d Up)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.3"
 msgid "(DPad %d Down)"
-msgstr ""
+msgstr "(DPad %d Down)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.4
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.4"
 msgid "(DPad %d Left)"
-msgstr ""
+msgstr "(DPad %d Left)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.5
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.5"
 msgid "(DPad %d Right)"
-msgstr ""
+msgstr "(DPad %d Right)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.6
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.6"
 msgid "(-X Axis)"
-msgstr ""
+msgstr "(-X Axis)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.7
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.7"
 msgid "(+X Axis)"
-msgstr ""
+msgstr "(+X Axis)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.8
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.8"
 msgid "(-Y Axis)"
-msgstr ""
+msgstr "(-Y Axis)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.9
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.9"
 msgid "(+Y Axis)"
-msgstr ""
+msgstr "(+Y Axis)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.10
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.10"
 msgid "(-Z Axis)"
-msgstr ""
+msgstr "(-Z Axis)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.11
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.11"
 msgid "(+Z Axis)"
-msgstr ""
+msgstr "(+Z Axis)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.12
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.12"
 msgid "(-X Rotation)"
-msgstr ""
+msgstr "(-X Rotation)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.13
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.13"
 msgid "(+X Rotation)"
-msgstr ""
+msgstr "(+X Rotation)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.14
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.14"
 msgid "(-Y Rotation)"
-msgstr ""
+msgstr "(-Y Rotation)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.15
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.15"
 msgid "(+Y Rotation)"
-msgstr ""
+msgstr "(+Y Rotation)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.16
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.16"
 msgid "(-Z Rotation)"
-msgstr ""
+msgstr "(-Z Rotation)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.17
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.17"
 msgid "(+Z Rotation)"
-msgstr ""
+msgstr "(+Z Rotation)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.18
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.18"
 msgid "(Slider 0)"
-msgstr ""
+msgstr "(Slider 0)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.19
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.19"
 msgid "(Slider 0)"
-msgstr ""
+msgstr "(Slider 0)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.20
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.20"
 msgid "(Slider 1)"
-msgstr ""
+msgstr "(Slider 1)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.21
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.21"
 msgid "(Slider 1)"
-msgstr ""
+msgstr "(Slider 1)"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.7.11
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.7.11"
 msgid ""
-msgstr ""
+msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.7.17
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.7.17"
 msgid "Left Paddle"
-msgstr ""
+msgstr "LP"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.7.18
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.7.18"
 msgid "Right Paddle"
-msgstr ""
+msgstr "RP"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.9.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.9.1"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.9.2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.9.2"
 msgid " - No Bind - "
-msgstr ""
+msgstr " - 尚未指定 - "
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.11
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.11"
 msgid ""
-msgstr ""
+msgstr ""
 
 #. STRINGS.UI.PAUSEMENU.SAVEANDQUITTITLE
 msgctxt "STRINGS.UI.PAUSEMENU.SAVEANDQUITTITLE"
