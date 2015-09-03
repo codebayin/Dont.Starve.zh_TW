@@ -8571,47 +8571,47 @@ msgstr "正在開鑿洞穴"
 #. STRINGS.UI.NOTIFICATION.CONNECTING
 msgctxt "STRINGS.UI.NOTIFICATION.CONNECTING"
 msgid "Connecting"
-msgstr ""
+msgstr "連線中"
 
 #. STRINGS.UI.NOTIFICATION.LOADING
 msgctxt "STRINGS.UI.NOTIFICATION.LOADING"
 msgid "Loading"
-msgstr ""
+msgstr "載入中"
 
 #. STRINGS.UI.NOTIFICATION.JOINEDGAME
 msgctxt "STRINGS.UI.NOTIFICATION.JOINEDGAME"
 msgid "has joined the game."
-msgstr ""
+msgstr "加入遊戲了。"
 
 #. STRINGS.UI.NOTIFICATION.DISCONNECT_CONTROLLER
 msgctxt "STRINGS.UI.NOTIFICATION.DISCONNECT_CONTROLLER"
 msgid " to Disconnect"
-msgstr ""
+msgstr " 斷線"
 
 #. STRINGS.UI.NOTIFICATION.PRESS_KB
 msgctxt "STRINGS.UI.NOTIFICATION.PRESS_KB"
 msgid "Press ("
-msgstr ""
+msgstr "按 ("
 
 #. STRINGS.UI.NOTIFICATION.LOGIN
 msgctxt "STRINGS.UI.NOTIFICATION.LOGIN"
 msgid "Logging in"
-msgstr ""
+msgstr "登入中"
 
 #. STRINGS.UI.NOTIFICATION.DISCONNECT_KB
 msgctxt "STRINGS.UI.NOTIFICATION.DISCONNECT_KB"
 msgid ") to Disconnect"
-msgstr ""
+msgstr ") 斷線"
 
 #. STRINGS.UI.NOTIFICATION.PRESS_CONTROLLER
 msgctxt "STRINGS.UI.NOTIFICATION.PRESS_CONTROLLER"
 msgid "Press "
-msgstr ""
+msgstr "按 "
 
 #. STRINGS.UI.NOTIFICATION.LEFTGAME
 msgctxt "STRINGS.UI.NOTIFICATION.LEFTGAME"
 msgid "has left the game."
-msgstr ""
+msgstr "離開遊戲了。"
 
 #. STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE
 msgctxt "STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE"
