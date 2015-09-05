@@ -11441,747 +11441,747 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.BUYNOW
 msgctxt "STRINGS.UI.MAINSCREEN.BUYNOW"
 msgid "Buy Now"
-msgstr ""
+msgstr "立即購買"
 
 #. STRINGS.UI.MAINSCREEN.GAMEWIZARD
 msgctxt "STRINGS.UI.MAINSCREEN.GAMEWIZARD"
 msgid "Game Wizard"
-msgstr ""
+msgstr "遊戲指引"
 
 #. STRINGS.UI.MAINSCREEN.CONTINUE
 msgctxt "STRINGS.UI.MAINSCREEN.CONTINUE"
 msgid "Continue"
-msgstr ""
+msgstr "繼續"
 
 #. STRINGS.UI.MAINSCREEN.NEWGO
 msgctxt "STRINGS.UI.MAINSCREEN.NEWGO"
 msgid "Lets Go!"
-msgstr ""
+msgstr "出發！"
 
 #. STRINGS.UI.MAINSCREEN.NEWADVENTURE_WARN
 msgctxt "STRINGS.UI.MAINSCREEN.NEWADVENTURE_WARN"
 msgid "The new adventure system is currently in active development and is provided for testing purposes. It will probably contain bugs."
-msgstr ""
+msgstr "新的冒險系統正在開發中，僅提供測試，可能會有某些錯誤。"
 
 #. STRINGS.UI.MAINSCREEN.LOGOUT
 msgctxt "STRINGS.UI.MAINSCREEN.LOGOUT"
 msgid "Log Out"
-msgstr ""
+msgstr "登出"
 
 #. STRINGS.UI.MAINSCREEN.SCRIPTERRORQUIT
 msgctxt "STRINGS.UI.MAINSCREEN.SCRIPTERRORQUIT"
 msgid "Exit Game"
-msgstr ""
+msgstr "離開遊戲"
 
 #. STRINGS.UI.MAINSCREEN.RESTART
 msgctxt "STRINGS.UI.MAINSCREEN.RESTART"
 msgid "Restart"
-msgstr ""
+msgstr "重新開始"
 
 #. STRINGS.UI.MAINSCREEN.FREEPLAY
 msgctxt "STRINGS.UI.MAINSCREEN.FREEPLAY"
 msgid "Sandbox"
-msgstr ""
+msgstr "沙盒"
 
 #. STRINGS.UI.MAINSCREEN.OK
 msgctxt "STRINGS.UI.MAINSCREEN.OK"
 msgid "OK"
-msgstr ""
+msgstr "確定"
 
 #. STRINGS.UI.MAINSCREEN.NEWGAMEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.NEWGAMEDESC"
 msgid "This will erase your current save. Continue?"
-msgstr ""
+msgstr "這會清除你目前的存檔。要繼續嗎？"
 
 #. STRINGS.UI.MAINSCREEN.RESETGAMEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.RESETGAMEDESC"
 msgid "This will reset your current world. Continue?"
-msgstr ""
+msgstr "這會重置你目前的世界。要繼續嗎？"
 
 #. STRINGS.UI.MAINSCREEN.CANCEL
 msgctxt "STRINGS.UI.MAINSCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.MAINSCREEN.SLOT_4
 msgctxt "STRINGS.UI.MAINSCREEN.SLOT_4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. STRINGS.UI.MAINSCREEN.MODSBADTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MODSBADTITLE"
 msgid "All Mods Disabled"
-msgstr ""
+msgstr "全部模組停用"
 
 #. STRINGS.UI.MAINSCREEN.STEAM_ONLINE
 msgctxt "STRINGS.UI.MAINSCREEN.STEAM_ONLINE"
 msgid "Online"
-msgstr ""
+msgstr "線上"
 
 #. STRINGS.UI.MAINSCREEN.JOINCHAR
 msgctxt "STRINGS.UI.MAINSCREEN.JOINCHAR"
 msgid "Join (CharSelect)"
-msgstr ""
+msgstr "加入 (CharSelect)"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_WIZARD
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_WIZARD"
 msgid "Let us help you drill down the list of servers"
-msgstr ""
+msgstr "讓我們幫你挖掘伺服器清單"
 
 #. STRINGS.UI.MAINSCREEN.PLAYMP
 msgctxt "STRINGS.UI.MAINSCREEN.PLAYMP"
 msgid "Play Online!"
-msgstr ""
+msgstr "線上遊玩！"
 
 #. STRINGS.UI.MAINSCREEN.SLOT_3
 msgctxt "STRINGS.UI.MAINSCREEN.SLOT_3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. STRINGS.UI.MAINSCREEN.NEWGAMESHORT
 msgctxt "STRINGS.UI.MAINSCREEN.NEWGAMESHORT"
 msgid "Empty"
-msgstr ""
+msgstr "空的"
 
 #. STRINGS.UI.MAINSCREEN.SLOT
 msgctxt "STRINGS.UI.MAINSCREEN.SLOT"
 msgid "Game Slot"
-msgstr ""
+msgstr "遊戲欄位"
 
 #. STRINGS.UI.MAINSCREEN.UNLOCKEVERYTHING
 msgctxt "STRINGS.UI.MAINSCREEN.UNLOCKEVERYTHING"
 msgid "Unlock Everything"
-msgstr ""
+msgstr "解鎖全部"
 
 #. STRINGS.UI.MAINSCREEN.CANT_LOAD_ROG
 msgctxt "STRINGS.UI.MAINSCREEN.CANT_LOAD_ROG"
 msgid "Reign of Giants is not installed. Unable to load"
-msgstr ""
+msgstr "《巨人國》尚未安裝。無法載入"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_OPTIONS
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_OPTIONS"
 msgid "Change your settings and controls"
-msgstr ""
+msgstr "變更你的設定和控制"
 
 #. STRINGS.UI.MAINSCREEN.NOTIFY
 msgctxt "STRINGS.UI.MAINSCREEN.NOTIFY"
 msgid "News"
-msgstr ""
+msgstr "新聞"
 
 #. STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
 msgctxt "STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT"
 msgid "Next build imminent!"
-msgstr ""
+msgstr "即將更新！"
 
 #. STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC
 msgctxt "STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC"
 msgid "Data was imported successfully."
-msgstr ""
+msgstr "資料匯入成功。"
 
 #. STRINGS.UI.MAINSCREEN.NEWADVENTURE
 msgctxt "STRINGS.UI.MAINSCREEN.NEWADVENTURE"
 msgid "Adventure (TEST)"
-msgstr ""
+msgstr "冒險（測試）"
 
 #. STRINGS.UI.MAINSCREEN.FAILEDMODS
 msgctxt "STRINGS.UI.MAINSCREEN.FAILEDMODS"
 msgid "The following mods failed to run last time and have been disabled: "
-msgstr ""
+msgstr "以下的模組上次運行失敗，都被停用了："
 
 #. STRINGS.UI.MAINSCREEN.FRESHBUILD
 msgctxt "STRINGS.UI.MAINSCREEN.FRESHBUILD"
 msgid "Fresh Build!"
-msgstr ""
+msgstr "最新更新！"
 
 #. STRINGS.UI.MAINSCREEN.ENTERPRODUCTKEY
 msgctxt "STRINGS.UI.MAINSCREEN.ENTERPRODUCTKEY"
 msgid "Enter Key"
-msgstr ""
+msgstr "輸入金鑰"
 
 #. STRINGS.UI.MAINSCREEN.HOSTCHAR
 msgctxt "STRINGS.UI.MAINSCREEN.HOSTCHAR"
 msgid "Host (CharSelect)"
-msgstr ""
+msgstr "開局 (CharSelect)"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_CANCEL
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.MAINSCREEN.BUYDONTSTARVEMAIN
 msgctxt "STRINGS.UI.MAINSCREEN.BUYDONTSTARVEMAIN"
 msgid "Buy Don't Starve"
-msgstr ""
+msgstr "購買《別餓死》"
 
 #. STRINGS.UI.MAINSCREEN.OPTIONS
 msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
 msgid "Options"
-msgstr ""
+msgstr "選項"
 
 #. STRINGS.UI.MAINSCREEN.LOGIN
 msgctxt "STRINGS.UI.MAINSCREEN.LOGIN"
 msgid "Login"
-msgstr ""
+msgstr "登入"
 
 #. STRINGS.UI.MAINSCREEN.CHEATS
 msgctxt "STRINGS.UI.MAINSCREEN.CHEATS"
 msgid "Cheats"
-msgstr ""
+msgstr "作弊碼"
 
 #. STRINGS.UI.MAINSCREEN.DLC_UPDATENAME
 msgctxt "STRINGS.UI.MAINSCREEN.DLC_UPDATENAME"
 msgid "Where There's a Wilson..."
-msgstr ""
+msgstr "有威爾森的地方……"
 
 #. STRINGS.UI.MAINSCREEN.SCREECHER_NACL_DIALOG_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.SCREECHER_NACL_DIALOG_TITLE"
 msgid "The Screecher Is Waiting For You..."
-msgstr ""
+msgstr "尖嘯者在等著你……"
 
 #. STRINGS.UI.MAINSCREEN.MODDETAIL2
 msgctxt "STRINGS.UI.MAINSCREEN.MODDETAIL2"
 msgid "Klei is not able to help you should issues arise while using mods. Use with caution!"
-msgstr ""
+msgstr "Klei無法幫你解決模組造成的問題。請謹慎使用！"
 
 #. STRINGS.UI.MAINSCREEN.NEWFREEPLAY
 msgctxt "STRINGS.UI.MAINSCREEN.NEWFREEPLAY"
 msgid "Sandbox"
-msgstr ""
+msgstr "沙盒"
 
 #. STRINGS.UI.MAINSCREEN.PLAYDEMO
 msgctxt "STRINGS.UI.MAINSCREEN.PLAYDEMO"
 msgid "Play Demo"
-msgstr ""
+msgstr "開始試玩"
 
 #. STRINGS.UI.MAINSCREEN.MOTDBUTTON
 msgctxt "STRINGS.UI.MAINSCREEN.MOTDBUTTON"
 msgid "Join Us"
-msgstr ""
+msgstr "加入我們"
 
 #. STRINGS.UI.MAINSCREEN.MODDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.MODDETAIL"
 msgid "Installed mods: "
-msgstr ""
+msgstr "安裝的模組："
 
 #. STRINGS.UI.MAINSCREEN.ADVGAMEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.ADVGAMEDESC"
 msgid "NOTE: This mode is still under development.\n\nFor experienced players only!\n\nYou've decided to bring the fight to Maxwell.\nCan you survive the increasingly harsh conditions he's created for you, and beat him at his own game?"
-msgstr ""
+msgstr "注意：此模式尚在開發。\n\n僅供有經驗的玩家遊玩！\n\n你決定要與麥斯威爾決一死戰。\n你能在他為你創造的嚴苛環境中生存下來嗎？並在他的遊戲中擊敗他嗎？"
 
 #. STRINGS.UI.MAINSCREEN.STEAM_OFFLINE
 msgctxt "STRINGS.UI.MAINSCREEN.STEAM_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "離線"
 
 #. STRINGS.UI.MAINSCREEN.CANCELOFFLINE
 msgctxt "STRINGS.UI.MAINSCREEN.CANCELOFFLINE"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.MAINSCREEN.LATER
 msgctxt "STRINGS.UI.MAINSCREEN.LATER"
 msgid "Not Now"
-msgstr ""
+msgstr "稍後再問"
 
 #. STRINGS.UI.MAINSCREEN.SCREECHER_NACL_DIALOG_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.SCREECHER_NACL_DIALOG_TEXT"
 msgid "The Screecher requires a Steam or Stand-alone version of Don't Starve to play."
-msgstr ""
+msgstr "《尖嘯者》需要Steam版或獨立版的《別餓死》才能玩。"
 
 #. STRINGS.UI.MAINSCREEN.LASTBUILDDAYS
 msgctxt "STRINGS.UI.MAINSCREEN.LASTBUILDDAYS"
 msgid "Last build %d days ago"
-msgstr ""
+msgstr "最後更新在%d天前"
 
 #. STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODEDESC"
 msgid "Couldn't connect to Steam (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
-msgstr ""
+msgstr "無法連線到Steam（定期維護或連線問題）。線上的角色和世界將不能使用。要離線遊玩嗎？"
 
 #. STRINGS.UI.MAINSCREEN.CONTROLS
 msgctxt "STRINGS.UI.MAINSCREEN.CONTROLS"
 msgid "Controls"
-msgstr ""
+msgstr "控制"
 
 #. STRINGS.UI.MAINSCREEN.PLAY
 msgctxt "STRINGS.UI.MAINSCREEN.PLAY"
 msgid "Play!"
-msgstr ""
+msgstr "開始遊戲！"
 
 #. STRINGS.UI.MAINSCREEN.ENABLECONTROLLER
 msgctxt "STRINGS.UI.MAINSCREEN.ENABLECONTROLLER"
 msgid "Enable Controller"
-msgstr ""
+msgstr "啟用手把"
 
 #. STRINGS.UI.MAINSCREEN.SCRIPTERRORMODWARNING
 msgctxt "STRINGS.UI.MAINSCREEN.SCRIPTERRORMODWARNING"
 msgid "This error may have occurred due to a mod you have enabled!\nYou have the following mods enabled:\n"
-msgstr ""
+msgstr "這個錯誤可能是因為你啟用的某個模組造成的！\n以下是你啟用的模組：\n"
 
 #. STRINGS.UI.MAINSCREEN.QUIT
 msgctxt "STRINGS.UI.MAINSCREEN.QUIT"
 msgid "Quit"
-msgstr ""
+msgstr "離開"
 
 #. STRINGS.UI.MAINSCREEN.MOTDTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MOTDTITLE"
 msgid "Halloween Mod Challenge"
-msgstr ""
+msgstr "萬聖節模組大挑戰"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_BROWSE
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_BROWSE"
 msgid "Browse the list of servers"
-msgstr ""
+msgstr "瀏覽伺服器清單"
 
 #. STRINGS.UI.MAINSCREEN.MODFAILDETAIL2
 msgctxt "STRINGS.UI.MAINSCREEN.MODFAILDETAIL2"
 msgid "The mod will be disabled, re-enable it from the mods menu."
-msgstr ""
+msgstr "模組將被停用，可在模組選單重新啟用。"
 
 #. STRINGS.UI.MAINSCREEN.MODFAILTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MODFAILTITLE"
 msgid "WARNING!"
-msgstr ""
+msgstr "警告！"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_HOST
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_HOST"
 msgid "Start your own server"
-msgstr ""
+msgstr "建立你自己的伺服器"
 
 #. STRINGS.UI.MAINSCREEN.RESETPROFILE
 msgctxt "STRINGS.UI.MAINSCREEN.RESETPROFILE"
 msgid "Reset profile!"
-msgstr ""
+msgstr "重置檔案！"
 
 #. STRINGS.UI.MAINSCREEN.MODS
 msgctxt "STRINGS.UI.MAINSCREEN.MODS"
 msgid "Mods"
-msgstr ""
+msgstr "模組"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_UPTODATE
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_UPTODATE"
 msgid "Up to date!"
-msgstr ""
+msgstr "最新！"
 
 #. STRINGS.UI.MAINSCREEN.GIFT
 msgctxt "STRINGS.UI.MAINSCREEN.GIFT"
 msgid "Send Gift"
-msgstr ""
+msgstr "贈送禮物"
 
 #. STRINGS.UI.MAINSCREEN.PLAY_ON_STEAM
 msgctxt "STRINGS.UI.MAINSCREEN.PLAY_ON_STEAM"
 msgid "PLAY ON STEAM TEXT"
-msgstr ""
+msgstr "在Steam上遊玩"
 
 #. STRINGS.UI.MAINSCREEN.RATE
 msgctxt "STRINGS.UI.MAINSCREEN.RATE"
 msgid "Rate This Game"
-msgstr ""
+msgstr "評價這款遊戲"
 
 #. STRINGS.UI.MAINSCREEN.NO
 msgctxt "STRINGS.UI.MAINSCREEN.NO"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #. STRINGS.UI.MAINSCREEN.FORUM
 msgctxt "STRINGS.UI.MAINSCREEN.FORUM"
 msgid "Forum"
-msgstr ""
+msgstr "論壇"
 
 #. STRINGS.UI.MAINSCREEN.PLAYOFFLINE
 msgctxt "STRINGS.UI.MAINSCREEN.PLAYOFFLINE"
 msgid "Play Offline"
-msgstr ""
+msgstr "離線遊玩"
 
 #. STRINGS.UI.MAINSCREEN.HOST
 msgctxt "STRINGS.UI.MAINSCREEN.HOST"
 msgid "Host Game"
-msgstr ""
+msgstr "建立遊戲"
 
 #. STRINGS.UI.MAINSCREEN.MOTD
 msgctxt "STRINGS.UI.MAINSCREEN.MOTD"
 msgid "If you want to participate in our Halloween Mod Challenge click the link below!"
-msgstr ""
+msgstr "如果要參與我們的萬聖節模組大挑戰，請點擊以下連結！"
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 msgctxt "STRINGS.UI.MAINSCREEN.TESTING"
 msgid "This is the testing branch!"
-msgstr ""
+msgstr "這是一個分支測試版！"
 
 #. STRINGS.UI.MAINSCREEN.TESTINGNO
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGNO"
 msgid "No thank you!"
-msgstr ""
+msgstr "不，謝謝！"
 
 #. STRINGS.UI.MAINSCREEN.MODFORUMS
 msgctxt "STRINGS.UI.MAINSCREEN.MODFORUMS"
 msgid "Mod Forums"
-msgstr ""
+msgstr "模組論壇"
 
 #. STRINGS.UI.MAINSCREEN.NEWWORLDDESC
 msgctxt "STRINGS.UI.MAINSCREEN.NEWWORLDDESC"
 msgid "This will erase your current world and any saved games in it. Continue?"
-msgstr ""
+msgstr "這會清除你目前的世界和其中的存檔內容。要繼續嗎？"
 
 #. STRINGS.UI.MAINSCREEN.MODSBADLOAD
 msgctxt "STRINGS.UI.MAINSCREEN.MODSBADLOAD"
 msgid "The game did not start correctly last time. This was likely caused by a mod, so all mods have been disabled.\n\nYou can try re-enabling mods from the mod settings screen."
-msgstr ""
+msgstr "遊戲上次啟動失敗。這似乎是某個模組造成的，所以全部模組都被停用了。\n\n你可以在模組設定畫面重新啟用模組。"
 
 #. STRINGS.UI.MAINSCREEN.ACCOUNTINFO
 msgctxt "STRINGS.UI.MAINSCREEN.ACCOUNTINFO"
 msgid "Account Info"
-msgstr ""
+msgstr "帳號資訊"
 
 #. STRINGS.UI.MAINSCREEN.FORCEMODDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.FORCEMODDETAIL"
 msgid "You are force loading these mods from modsettings.lua. They will always be enabled:"
-msgstr ""
+msgstr "你強制從modsettings.lua載入這些模組。這些模組永遠會被啟用："
 
 #. STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
 msgctxt "STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS"
 msgid "Next Update: %d days"
-msgstr ""
+msgstr "下次更新：%d天"
 
 #. STRINGS.UI.MAINSCREEN.CREATE
 msgctxt "STRINGS.UI.MAINSCREEN.CREATE"
 msgid "Host Game"
-msgstr ""
+msgstr "建立遊戲"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_ERROR
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_ERROR"
 msgid "Problem checking for latest version."
-msgstr ""
+msgstr "檢查最新版本時發生問題。"
 
 #. STRINGS.UI.MAINSCREEN.CREDITS
 msgctxt "STRINGS.UI.MAINSCREEN.CREDITS"
 msgid "Credits"
-msgstr ""
+msgstr "製作團隊"
 
 #. STRINGS.UI.MAINSCREEN.SLOT_2
 msgctxt "STRINGS.UI.MAINSCREEN.SLOT_2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_CHECKING
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_CHECKING"
 msgid "Checking for update"
-msgstr ""
+msgstr "檢查更新"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_QUIT
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_QUIT"
 msgid "Scram!"
-msgstr ""
+msgstr "快逃啊！"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_MODS
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_MODS"
 msgid "Customize your game"
-msgstr ""
+msgstr "自訂你的遊戲"
 
 #. STRINGS.UI.MAINSCREEN.OFFLINEMODEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.OFFLINEMODEDESC"
 msgid "Could not connect to Klei's servers. Characters and worlds from online games will be unavailable. Continue and play offline?"
-msgstr ""
+msgstr "無法連線到Klei的伺服器。線上的角色和世界將不能使用。要離線遊玩嗎？"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_MOREINFO
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_MOREINFO"
 msgid "Instructions"
-msgstr ""
+msgstr "說明"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_NOTUPTODATE
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_NOTUPTODATE"
 msgid "Update required!"
-msgstr ""
+msgstr "需要更新！"
 
 #. STRINGS.UI.MAINSCREEN.TESTINGYES
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGYES"
 msgid "I understand"
-msgstr ""
+msgstr "知道了"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_YOURS
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_YOURS"
 msgid "Your Version: %s"
-msgstr ""
+msgstr "你的版本：%s"
 
 #. STRINGS.UI.MAINSCREEN.DISABLECONTROLLER
 msgctxt "STRINGS.UI.MAINSCREEN.DISABLECONTROLLER"
 msgid "Disable Controller"
-msgstr ""
+msgstr "停用手把"
 
 #. STRINGS.UI.MAINSCREEN.CONTROLLER_DETECTED_BODY
 msgctxt "STRINGS.UI.MAINSCREEN.CONTROLLER_DETECTED_BODY"
 msgid "Play Don't Starve Together with a controller?\nYou won't be asked again but you can change this setting in the controls screen if you change your mind.\n\nNOTE: Controller support is not yet complete."
-msgstr ""
+msgstr "要用手把進行遊戲嗎？\n下次不會再詢問你，但你改變主意的話，可以到控制設定畫面變更這項設定。\n\n注意：手把支援尚未完整。"
 
 #. STRINGS.UI.MAINSCREEN.GREETING
 msgctxt "STRINGS.UI.MAINSCREEN.GREETING"
 msgid "Hi "
-msgstr ""
+msgstr "嗨！"
 
 #. STRINGS.UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER
 msgctxt "STRINGS.UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER"
 msgid "Controller Detected"
-msgstr ""
+msgstr "偵測到手把"
 
 #. STRINGS.UI.MAINSCREEN.OFFLINEMODE
 msgctxt "STRINGS.UI.MAINSCREEN.OFFLINEMODE"
 msgid "Connection to Klei Failed"
-msgstr ""
+msgstr "連線到Klei失敗"
 
 #. STRINGS.UI.MAINSCREEN.CONSOLE_EDITION_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.CONSOLE_EDITION_TEXT"
 msgid "Console Edition"
-msgstr ""
+msgstr "家機版"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_INSTRUCTIONS
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_INSTRUCTIONS"
 msgid "Instructions"
-msgstr ""
+msgstr "說明"
 
 #. STRINGS.UI.MAINSCREEN.BROADCASTING
 msgctxt "STRINGS.UI.MAINSCREEN.BROADCASTING"
 msgid "Broadcasting"
-msgstr ""
+msgstr "實況"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_PLAY
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_PLAY"
 msgid "Play Anyway"
-msgstr ""
+msgstr "繼續遊戲"
 
 #. STRINGS.UI.MAINSCREEN.BACK
 msgctxt "STRINGS.UI.MAINSCREEN.BACK"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_TITLE"
 msgid "Version Out of Date"
-msgstr ""
+msgstr "版本過期"
 
 #. STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODE
 msgctxt "STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODE"
 msgid "Connection to Steam Failed"
-msgstr ""
+msgstr "連線到Steam失敗"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_HISTORY
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_HISTORY"
 msgid "Revisit past lives and missed connections"
-msgstr ""
+msgstr "重溫過去的點滴和擦身而過的人"
 
 #. STRINGS.UI.MAINSCREEN.STEAM
 msgctxt "STRINGS.UI.MAINSCREEN.STEAM"
 msgid "Steam: "
-msgstr ""
+msgstr "Steam："
 
 #. STRINGS.UI.MAINSCREEN.NEWGAME
 msgctxt "STRINGS.UI.MAINSCREEN.NEWGAME"
 msgid "Start a new game!"
-msgstr ""
+msgstr "開始新遊戲！"
 
 #. STRINGS.UI.MAINSCREEN.MODQUIT
 msgctxt "STRINGS.UI.MAINSCREEN.MODQUIT"
 msgid "Disable Mods"
-msgstr ""
+msgstr "停用模組"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_LATEST
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_LATEST"
 msgid "Latest Version: %s"
-msgstr ""
+msgstr "最新版本：%s"
 
 #. STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_HEADER
 msgctxt "STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_HEADER"
 msgid "Adjust Display Area."
-msgstr ""
+msgstr "調整顯示區域。"
 
 #. STRINGS.UI.MAINSCREEN.SCREECHER_DIALOG_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.SCREECHER_DIALOG_TEXT"
 msgid "The Screecher mod requires the game to be restarted."
-msgstr ""
+msgstr "《尖嘯者》需要重啟遊戲。"
 
 #. STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_TEXT"
 msgid "Parts of the game may appear outside the edges of your screen. Do you want to check and adjust your display area now? You can do this later in the settings menu."
-msgstr ""
+msgstr "部分遊戲畫面超出了你的螢幕。你是否要現在檢查並調整你的顯示區域？稍後也可以在設定選單進行調整。"
 
 #. STRINGS.UI.MAINSCREEN.NEWGAMETYPE
 msgctxt "STRINGS.UI.MAINSCREEN.NEWGAMETYPE"
 msgid "What kind of game would you like to play?"
-msgstr ""
+msgstr "你想玩哪一種模式？"
 
 #. STRINGS.UI.MAINSCREEN.SURE
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
 msgid "Are you sure?"
-msgstr ""
+msgstr "你確定嗎？"
 
 #. STRINGS.UI.MAINSCREEN.SCREECHER_DIALOG_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.SCREECHER_DIALOG_TITLE"
 msgid "Restart Required"
-msgstr ""
+msgstr "需要重啟"
 
 #. STRINGS.UI.MAINSCREEN.PLAY_ON_STEAM_DETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.PLAY_ON_STEAM_DETAIL"
 msgid "Mods! And Stuff. It is better."
-msgstr ""
+msgstr "感謝模組和模組開發者！"
 
 #. STRINGS.UI.MAINSCREEN.SCREECHER_NACL_OKAY
 msgctxt "STRINGS.UI.MAINSCREEN.SCREECHER_NACL_OKAY"
 msgid "Learn More"
-msgstr ""
+msgstr "了解更多"
 
 #. STRINGS.UI.MAINSCREEN.ADVENTURE
 msgctxt "STRINGS.UI.MAINSCREEN.ADVENTURE"
 msgid "Adventure"
-msgstr ""
+msgstr "冒險"
 
 #. STRINGS.UI.MAINSCREEN.TESTINGDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGDETAIL"
 msgid "You may encounter bugs or broken features, and you may lose your save game when we update. Please report all problems in the forum."
-msgstr ""
+msgstr "在升級遊戲後，你可能會碰到錯誤或損壞的功能，也可能遺失存檔。所有問題請至論壇回報。"
 
 #. STRINGS.UI.MAINSCREEN.UPDATENAME
 msgctxt "STRINGS.UI.MAINSCREEN.UPDATENAME"
 msgid "All's Well That Maxwell"
-msgstr ""
+msgstr "麥斯威爾好，一切都好"
 
 #. STRINGS.UI.MAINSCREEN.SETTINGS
 msgctxt "STRINGS.UI.MAINSCREEN.SETTINGS"
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #. STRINGS.UI.MAINSCREEN.BROWSE
 msgctxt "STRINGS.UI.MAINSCREEN.BROWSE"
 msgid "Browse Games"
-msgstr ""
+msgstr "瀏覽遊戲"
 
 #. STRINGS.UI.MAINSCREEN.UNKNOWNGAME
 msgctxt "STRINGS.UI.MAINSCREEN.UNKNOWNGAME"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. STRINGS.UI.MAINSCREEN.DST_UPDATENAME
 msgctxt "STRINGS.UI.MAINSCREEN.DST_UPDATENAME"
 msgid "Early Access"
-msgstr ""
+msgstr "預覽版"
 
 #. STRINGS.UI.MAINSCREEN.YES
 msgctxt "STRINGS.UI.MAINSCREEN.YES"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #. STRINGS.UI.MAINSCREEN.EXIT
 msgctxt "STRINGS.UI.MAINSCREEN.EXIT"
 msgid "Exit"
-msgstr ""
+msgstr "離開"
 
 #. STRINGS.UI.MAINSCREEN.MODTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MODTITLE"
 msgid "Mods Installed!"
-msgstr ""
+msgstr "模組已安裝！"
 
 #. STRINGS.UI.MAINSCREEN.IMPORTFAIL
 msgctxt "STRINGS.UI.MAINSCREEN.IMPORTFAIL"
 msgid "Failed to load"
-msgstr ""
+msgstr "載入失敗"
 
 #. STRINGS.UI.MAINSCREEN.NEWMODDETAIL2
 msgctxt "STRINGS.UI.MAINSCREEN.NEWMODDETAIL2"
 msgid "Enable these mods from the main menu."
-msgstr ""
+msgstr "在主選單啟用這些模組。"
 
 #. STRINGS.UI.MAINSCREEN.ASKQUIT
 msgctxt "STRINGS.UI.MAINSCREEN.ASKQUIT"
 msgid "Do you really want to quit?"
-msgstr ""
+msgstr "你真的要離開嗎？"
 
 #. STRINGS.UI.MAINSCREEN.JOIN
 msgctxt "STRINGS.UI.MAINSCREEN.JOIN"
 msgid "Join IP"
-msgstr ""
+msgstr "以IP加入"
 
 #. STRINGS.UI.MAINSCREEN.ASKQUITDESC
 msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC"
 msgid "Your friends will miss you!"
-msgstr ""
+msgstr "你的朋友會想念你的！"
 
 #. STRINGS.UI.MAINSCREEN.SLOT_1
 msgctxt "STRINGS.UI.MAINSCREEN.SLOT_1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. STRINGS.UI.MAINSCREEN.CANT_LOAD_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.CANT_LOAD_TITLE"
 msgid "Load Failed"
-msgstr ""
+msgstr "載入失敗"
 
 #. STRINGS.UI.MAINSCREEN.NEWFREEPLAYCUSTOM
 msgctxt "STRINGS.UI.MAINSCREEN.NEWFREEPLAYCUSTOM"
 msgid "Sandbox (Custom)"
-msgstr ""
+msgstr "沙盒（自訂）"
 
 #. STRINGS.UI.MAINSCREEN.VISITFORUM
 msgctxt "STRINGS.UI.MAINSCREEN.VISITFORUM"
 msgid "Visit Forum"
-msgstr ""
+msgstr "造訪論壇"
 
 #. STRINGS.UI.MAINSCREEN.NEWWORLD
 msgctxt "STRINGS.UI.MAINSCREEN.NEWWORLD"
 msgid "Create a new world!"
-msgstr ""
+msgstr "創建新世界！"
 
 #. STRINGS.UI.MAINSCREEN.NEWMODDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.NEWMODDETAIL"
 msgid "Newly installed mods: "
-msgstr ""
+msgstr "新安裝的模組："
 
 #. STRINGS.UI.MAINSCREEN.MODFAILDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.MODFAILDETAIL"
 msgid "The following mod(s) have caused a failure:"
-msgstr ""
+msgstr "以下模組造成了故障："
 
 #. STRINGS.UI.MAINSCREEN.MULTIPLAYER
 msgctxt "STRINGS.UI.MAINSCREEN.MULTIPLAYER"
 msgid "Multiplayer"
-msgstr ""
+msgstr "多人"
 
 #. STRINGS.UI.MAINSCREEN.ENTERKEY
 msgctxt "STRINGS.UI.MAINSCREEN.ENTERKEY"
 msgid "Enter New Key"
-msgstr ""
+msgstr "輸入新的金鑰"
 
 #. STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_BODY
 msgctxt "STRINGS.UI.MAINSCREEN.VERSION_OUT_OF_DATE_BODY"
 msgid "Your game looks like it's on an old version. We recommend that you update to the latest version."
-msgstr ""
+msgstr "你的遊戲似乎是舊版的，我們建議你升級到最新版。"
 
 #. STRINGS.UI.MAINSCREEN.IMPORT
 msgctxt "STRINGS.UI.MAINSCREEN.IMPORT"
 msgid "Import"
-msgstr ""
+msgstr "匯入"
 
 #. STRINGS.UI.MAINSCREEN.IMPORTSUCCESS
 msgctxt "STRINGS.UI.MAINSCREEN.IMPORTSUCCESS"
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 #. STRINGS.UI.MAINSCREEN.CHOOSEDIR
 msgctxt "STRINGS.UI.MAINSCREEN.CHOOSEDIR"
 msgid "Don't Starve Game Data"
-msgstr ""
+msgstr "《別餓死》存檔"
 
 #. STRINGS.UI.MAINSCREEN.MOREGAMES
 msgctxt "STRINGS.UI.MAINSCREEN.MOREGAMES"
 msgid "Games"
-msgstr ""
+msgstr "遊戲"
 
 #. STRINGS.UI.MAINSCREEN.SLOTACTION
 msgctxt "STRINGS.UI.MAINSCREEN.SLOTACTION"
 msgid "What would you like to do?"
-msgstr ""
+msgstr "你想要做什麼？"
 
 #. STRINGS.UI.MAINSCREEN.DELETE
 msgctxt "STRINGS.UI.MAINSCREEN.DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #. STRINGS.UI.GAMEMODES.SURVIVAL_DESCRIPTION
 msgctxt "STRINGS.UI.GAMEMODES.SURVIVAL_DESCRIPTION"
